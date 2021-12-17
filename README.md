@@ -1,7 +1,7 @@
 # Workspace Creator
 ## About
 Workspace creator is a simple VS Code Extension that I created to setup a web-workspace.
-You can find it on the Visual Studio Marketplace when you search for 'Workspace Creator'.
+You can find it on the Visual Studio Marketplace when you search for 'Workspace Creator', or [click here](https://marketplace.visualstudio.com/items?itemName=BorisNL.workspace-creator).
 
 ## Features
 This is a simple extension that creates a basic web-workspace, it creates several files / folders in the current workspace. The files it will create are:
